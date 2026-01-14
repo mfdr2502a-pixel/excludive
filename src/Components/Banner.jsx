@@ -31,13 +31,13 @@ const Banner = () => {
                             </li>
                             <li className='flex w-54.25 justify-between'>Men’s Fashion <MdOutlineKeyboardArrowRight className='text-xl'/>
                             </li>
-                            <li>Baby’s & Toys</li>
+                            <li>Baby’s & Toys for boys</li>
+                            <li>Groceries &  arif</li>
+                            <li>Medicine rakib</li>
+                            <li>Sports & Outdoor jisan</li>
+                            <li>Baby’s & Toys for kids</li>
                             <li>Groceries &  </li>
-                            <li>Medicine</li>
-                            <li>Sports & Outdoor</li>
-                            <li>Baby’s & Toys</li>
-                            <li>Groceries &  </li>
-                            <li>Health & Beauty</li>
+                            <li>Health & Beauty for girls</li>
                         </ul>
                      <div className='w-full pt-10'>
                            <Slider {...settings} >
